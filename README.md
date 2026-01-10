@@ -1,5 +1,8 @@
-# Tableau_sales_analysis
+# Tableau Sales Analysis
 End-to-end Tableau project: Transforming raw sales data into actionable insights. Includes year-over-year KPI analysis, customer order distribution, and profit-based segmentation
+
+
+> **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/SalesProject_17680787367270/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 
@@ -12,7 +15,7 @@ Leveraging Advanced LOD Expressions, Dynamic Parameters, and UX-focused Containe
 ### 1. Requirement Analysis
 Before touching the data, I defined the core business questions:
 
-- How does our performance in the Selected Year (CY) compare to the Prior Year (PY)?
+- How does our performance in the Selected Year (CY) compare to the Previous Year (PY)?
 
 - Which sub-categories are driving profit versus those just driving volume?
 
@@ -21,14 +24,14 @@ Before touching the data, I defined the core business questions:
 ### 2. Strategic Design (Mockups)
 I followed a "Design First" approach to ensure a clean, intuitive user experience:
 
-* Visual Mockup: Sketched the placement of KPIs and charts to ensure the most important information (Sales/Profit) occupied the "Golden Triangle" (top-left) of the dashboard.
+* Visual Mockup: Sketched the placement of KPIs and charts to ensure the most important information (Sales/Profit).
 
 * Container Mockup: Planned the technical layout using tiled and floating containers. This included designing a hidden floating filter menu to maximize screen real estate while maintaining deep drill-down capabilities.
 
 ### 3. Visual Development
 I built specialized charts focusing on clarity and context:
 
-- KPI BANs (Big Angry Numbers): Created with custom CY/PY logic, including Min/Max indicators to show monthly volatility.
+- KPI BANs: Created with custom CY/PY logic, including Min/Max indicators to show monthly volatility.
 
 - Distribution Histograms: Used FIXED LODs to categorize customers by their order frequency.
 
@@ -44,9 +47,17 @@ The final phase involved bringing the visuals together into two cohesive dashboa
     - Weekly Trendlines: A temporal view with Average Reference Lines to identify weeks of over/under-performance.
 
 2. Dashboard 2: Customer Insights 👥
-    - Customer KPIs: Tracking the count of unique customers and average sales per head.
+    - Customer KPIs: Tracking the count of unique customers, Count of orders and average sales per customer.
     - Order Frequency Histogram: A behavioral breakdown showing the count of customers per "number of orders" bin.
     - Profit Leaders: A Top 10 ranking of customers by their net profit contribution.
+  
+
+### 🧠 Technical Skills Showcased
+- Calculations: Level of Detail (LOD) Expressions, YoY Growth %, Date Functions.
+
+- Interactivity: Parameter Actions, Show/Hide Container Buttons, Tooltip Viz.
+
+- UI/UX: Floating menu design, color consistency, and white-space management.
   
 
 
