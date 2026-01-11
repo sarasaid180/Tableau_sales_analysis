@@ -70,33 +70,33 @@ The final phase involved bringing the visuals together into two cohesive dashboa
 ```
 Tableau_sales_analysis
 │
-├── data                                    # (Dimension and Fact tables). These tables are optimized for BI reporting and direct analytical querying.
+├── data                                    # Source data tables optimized for BI reporting.
 │       ├── Customers.csv              
 │       ├── Location.csv              
 │       ├── Orders.csv                 
 │       ├── Products.csv
 │
 │
-├── Dashboard                               # Screenshots of the dashboards
+├── Dashboard                               # Final exported views of the project
 │       ├── Customer Dashboard.png        
-│       ├── Dashboard Mockup.png           
+│       ├── Sales Dashboard.png           
 │
 │
-├── Design                                 # The mock-ups 
+├── Design                                 # Project planning and layout mock-ups 
 │       ├── Container Mockup.png       
-│       ├── Sales Dashboard.png       
+│       ├── Dashboard Mockup.png       
 │
 │
-├── Workbook                               # User story 
+├── Workbook                               # Final packaged Tableau file
 │       ├── Sales Project.twbx
 │
 │
-├── Workbook                              # The project as a tableau workbook
+├── Requirments                              # Project scope and business questions
 │       ├── Requirments .pdf
 │
 │
 │
-├── README.md                               # Project overview and instructions
+├── README.md                               # Project overview, technical highlights, and instructions
 ```
 
 ## 🌟 About Me
