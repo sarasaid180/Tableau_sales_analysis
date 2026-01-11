@@ -2,16 +2,16 @@
 End-to-end Tableau project: Transforming raw sales data into actionable insights. Includes year-over-year KPI analysis, customer order distribution, and profit-based segmentation
 
 &nbsp;
-&nbsp;
-&nbsp;
+
+
 
 > **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/SalesProject_17680787367270/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 > 💡 **Note:** For the best experience, please click the **Full Screen** icon (⛶) in the bottom right corner of the dashboard once it opens.
 
 &nbsp;
-&nbsp;
-&nbsp;
+
+
 
 ## 🌟 Executive Overview
 This project delivers a dual-layered analytical experience designed for retail stakeholders. By bridging the gap between high-level financial KPIs and granular customer behavior, the suite enables data-driven decision-making.
@@ -77,26 +77,26 @@ Tableau_sales_analysis
 │       ├── Products.csv
 │
 │
-├── Dashboard                               # Final exported views of the project
+├── Dashboard                               # Final exported views of the project.
 │       ├── Customer Dashboard.png        
 │       ├── Sales Dashboard.png           
 │
 │
-├── Design                                 # Project planning and layout mock-ups 
+├── Design                                 # Project planning and layout mock-ups. 
 │       ├── Container Mockup.png       
 │       ├── Dashboard Mockup.png       
 │
 │
-├── Workbook                               # Final packaged Tableau file
+├── Workbook                               # Final packaged Tableau file.
 │       ├── Sales Project.twbx
 │
 │
-├── Requirments                              # Project scope and business questions
+├── Requirments                              # Project scope and business questions.
 │       ├── Requirments .pdf
 │
 │
 │
-├── README.md                               # Project overview, technical highlights, and instructions
+├── README.md                               # Project overview, technical highlights, and instructions.
 ```
 
 ## 🌟 About Me
