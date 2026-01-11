@@ -1,10 +1,17 @@
 # Tableau Sales Analysis
 End-to-end Tableau project: Transforming raw sales data into actionable insights. Includes year-over-year KPI analysis, customer order distribution, and profit-based segmentation
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 > **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/SalesProject_17680787367270/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+> 💡 **Note:** For the best experience, please click the **Full Screen** icon (⛶) in the bottom right corner of the dashboard once it opens.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 🌟 Executive Overview
 This project delivers a dual-layered analytical experience designed for retail stakeholders. By bridging the gap between high-level financial KPIs and granular customer behavior, the suite enables data-driven decision-making.
@@ -60,4 +67,42 @@ The final phase involved bringing the visuals together into two cohesive dashboa
 - UI/UX: Floating menu design, color consistency, and white-space management.
   
 
+```
+Tableau_sales_analysis
+│
+├── data                                    # (Dimension and Fact tables). These tables are optimized for BI reporting and direct analytical querying.
+│       ├── Customers.csv              
+│       ├── Location.csv              
+│       ├── Orders.csv                 
+│       ├── Products.csv
+│
+│
+├── Dashboard                               # Screenshots of the dashboards
+│       ├── Customer Dashboard.png        
+│       ├── Dashboard Mockup.png           
+│
+│
+├── Design                                 # The mock-ups 
+│       ├── Container Mockup.png       
+│       ├── Sales Dashboard.png       
+│
+│
+├── Workbook                               # User story 
+│       ├── Sales Project.twbx
+│
+│
+├── Workbook                              # The project as a tableau workbook
+│       ├── Requirments .pdf
+│
+│
+│
+├── README.md                               # Project overview and instructions
+```
 
+## 🌟 About Me
+
+Hi there! I'm **Sara Said**. I’m passionate on the Data Field. My focus is on turning complex datasets, like the ones in this sales project, into clear performance metrics and analytical models.
+Let's stay in touch! Feel free to connect with me on the following platforms <br>
+Gmail: sara.mohammedali180@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-said-251648223/)
